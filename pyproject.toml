@@ -1,0 +1,31 @@
+[project]
+name = "msuite"
+version = "0.1.0"
+description = "A small harness for extracting and auditing data from the MemberSuite REST API"
+readme = "README.md"
+authors = [
+    { name = "Jeremey Bingham", email = "38598572+jeremeybingham@users.noreply.github.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+msuite = "msuite:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "ruff>=0.17.5",
+]
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]

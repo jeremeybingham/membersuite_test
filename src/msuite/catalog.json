@@ -1,0 +1,2095 @@
+[
+ {
+  "entity": "awardeedesignations",
+  "module": "awards",
+  "version": "v1",
+  "type": "AwardeeDesignation",
+  "summary": "AwardeeDesignations"
+ },
+ {
+  "entity": "awardeestatuses",
+  "module": "awards",
+  "version": "v1",
+  "type": "AwardeeStatus",
+  "summary": "AwardeeStatuses"
+ },
+ {
+  "entity": "awardperiods",
+  "module": "awards",
+  "version": "v1",
+  "type": "AwardPeriod",
+  "summary": "AwardPeriods"
+ },
+ {
+  "entity": "awardrecipients",
+  "module": "awards",
+  "version": "v1",
+  "type": "AwardRecipient",
+  "summary": "AwardRecipients"
+ },
+ {
+  "entity": "awards",
+  "module": "awards",
+  "version": "v1",
+  "type": "Award",
+  "summary": "Awards"
+ },
+ {
+  "entity": "awardtypes",
+  "module": "awards",
+  "version": "v1",
+  "type": "AwardType",
+  "summary": "AwardTypes"
+ },
+ {
+  "entity": "competitionentries",
+  "module": "awards",
+  "version": "v1",
+  "type": "CompetitionEntry",
+  "summary": "CompetitionEntries"
+ },
+ {
+  "entity": "competitionentryfees",
+  "module": "awards",
+  "version": "v1",
+  "type": "CompetitionEntryFee",
+  "summary": "CompetitionEntryFees"
+ },
+ {
+  "entity": "competitionentrystatuses",
+  "module": "awards",
+  "version": "v1",
+  "type": "CompetitionEntryStatus",
+  "summary": "CompetitionEntryStatuses"
+ },
+ {
+  "entity": "competitions",
+  "module": "awards",
+  "version": "v1",
+  "type": "Competition",
+  "summary": "Competitions"
+ },
+ {
+  "entity": "competitionsponsorshipfees",
+  "module": "awards",
+  "version": "v1",
+  "type": "CompetitionSponsorshipFee",
+  "summary": "CompetitionSponsorshipFees"
+ },
+ {
+  "entity": "competitionsponsorships",
+  "module": "awards",
+  "version": "v1",
+  "type": "CompetitionSponsorship",
+  "summary": "CompetitionSponsorships"
+ },
+ {
+  "entity": "competitiontypes",
+  "module": "awards",
+  "version": "v1",
+  "type": "CompetitionType",
+  "summary": "CompetitionTypes"
+ },
+ {
+  "entity": "judgingbuckets",
+  "module": "awards",
+  "version": "v1",
+  "type": "JudgingBucket",
+  "summary": "JudgingBuckets"
+ },
+ {
+  "entity": "judgingrounds",
+  "module": "awards",
+  "version": "v1",
+  "type": "JudgingRound",
+  "summary": "JudgingRounds"
+ },
+ {
+  "entity": "judgingteams",
+  "module": "awards",
+  "version": "v1",
+  "type": "JudgingTeam",
+  "summary": "JudgingTeams"
+ },
+ {
+  "entity": "scorecards",
+  "module": "awards",
+  "version": "v1",
+  "type": "ScoreCard",
+  "summary": "ScoreCards"
+ },
+ {
+  "entity": "scoringcriterions",
+  "module": "awards",
+  "version": "v1",
+  "type": "ScoringCriterion",
+  "summary": "ScoringCriterions"
+ },
+ {
+  "entity": "careercenterproducts",
+  "module": "careercenter",
+  "version": "v1",
+  "type": "CareerCenterProduct",
+  "summary": "CareerCenterProducts"
+ },
+ {
+  "entity": "jobpostingcategories",
+  "module": "careercenter",
+  "version": "v1",
+  "type": "JobPostingCategory",
+  "summary": "JobPostingCategories"
+ },
+ {
+  "entity": "jobpostingentitlements",
+  "module": "careercenter",
+  "version": "v1",
+  "type": "JobPostingEntitlement",
+  "summary": "JobPostingEntitlements"
+ },
+ {
+  "entity": "jobpostinglocations",
+  "module": "careercenter",
+  "version": "v1",
+  "type": "JobPostingLocation",
+  "summary": "JobPostingLocations"
+ },
+ {
+  "entity": "resumeaccessentitlements",
+  "module": "careercenter",
+  "version": "v1",
+  "type": "ResumeAccessEntitlement",
+  "summary": "ResumeAccessEntitlements"
+ },
+ {
+  "entity": "certificationapplicationexams",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationApplicationExam",
+  "summary": "CertificationApplicationExams"
+ },
+ {
+  "entity": "certificationapplications",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationApplication",
+  "summary": "CertificationApplications"
+ },
+ {
+  "entity": "certificationcomponentregistrations",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationComponentRegistration",
+  "summary": "CertificationComponentRegistrations"
+ },
+ {
+  "entity": "certificationcomponents",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationComponent",
+  "summary": "CertificationComponents"
+ },
+ {
+  "entity": "certificationcomponenttypes",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationComponentType",
+  "summary": "CertificationComponentTypes"
+ },
+ {
+  "entity": "certificationexams",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationExam",
+  "summary": "CertificationExams"
+ },
+ {
+  "entity": "certificationexamtypes",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationExamType",
+  "summary": "CertificationExamTypes"
+ },
+ {
+  "entity": "certificationfees",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationFee",
+  "summary": "CertificationFees"
+ },
+ {
+  "entity": "certificationprograms",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationProgram",
+  "summary": "CertificationPrograms"
+ },
+ {
+  "entity": "certificationrecommendations",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationRecommendation",
+  "summary": "CertificationRecommendations"
+ },
+ {
+  "entity": "certificationrecommendationtypes",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationRecommendationType",
+  "summary": "CertificationRecommendationTypes"
+ },
+ {
+  "entity": "certifications",
+  "module": "certifications",
+  "version": "v1",
+  "type": "Certification",
+  "summary": "Certifications"
+ },
+ {
+  "entity": "certificationstatuses",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationStatus",
+  "summary": "CertificationStatuses"
+ },
+ {
+  "entity": "certificationstatusreasons",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CertificationStatusReason",
+  "summary": "CertificationStatusReasons"
+ },
+ {
+  "entity": "ceucredits",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CEUCredit",
+  "summary": "CEUCredits"
+ },
+ {
+  "entity": "ceutypes",
+  "module": "certifications",
+  "version": "v1",
+  "type": "CEUType",
+  "summary": "CEUTypes"
+ },
+ {
+  "entity": "committeemeetings",
+  "module": "committees",
+  "version": "v1",
+  "type": "CommitteeMeeting",
+  "summary": "CommitteeMeetings"
+ },
+ {
+  "entity": "committeememberships",
+  "module": "committees",
+  "version": "v1",
+  "type": "CommitteeMembership",
+  "summary": "CommitteeMemberships"
+ },
+ {
+  "entity": "committeepositions",
+  "module": "committees",
+  "version": "v1",
+  "type": "CommitteePosition",
+  "summary": "CommitteePositions"
+ },
+ {
+  "entity": "committees",
+  "module": "committees",
+  "version": "v1",
+  "type": "Committee",
+  "summary": "Committees"
+ },
+ {
+  "entity": "committeeterms",
+  "module": "committees",
+  "version": "v1",
+  "type": "CommitteeTerm",
+  "summary": "CommitteeTerms"
+ },
+ {
+  "entity": "committeetypes",
+  "module": "committees",
+  "version": "v1",
+  "type": "CommitteeType",
+  "summary": "CommitteeTypes"
+ },
+ {
+  "entity": "activities",
+  "module": "crm",
+  "version": "v1",
+  "type": "Activity",
+  "summary": "Activities"
+ },
+ {
+  "entity": "activitystatuses",
+  "module": "crm",
+  "version": "v1",
+  "type": "ActivityStatus",
+  "summary": "ActivityStatuses"
+ },
+ {
+  "entity": "activitytypes",
+  "module": "crm",
+  "version": "v1",
+  "type": "ActivityType",
+  "summary": "ActivityTypes"
+ },
+ {
+  "entity": "addresstypes",
+  "module": "crm",
+  "version": "v1",
+  "type": "AddressType",
+  "summary": "AddressTypes"
+ },
+ {
+  "entity": "customentitlements",
+  "module": "crm",
+  "version": "v1",
+  "type": "CustomEntitlement",
+  "summary": "CustomEntitlements"
+ },
+ {
+  "entity": "customentitlementtypes",
+  "module": "crm",
+  "version": "v1",
+  "type": "CustomEntitlementType",
+  "summary": "CustomEntitlementTypes"
+ },
+ {
+  "entity": "entitystatuses",
+  "module": "crm",
+  "version": "v1",
+  "type": "EntityStatus",
+  "summary": "EntityStatuses"
+ },
+ {
+  "entity": "geographicalregionassignmentrules",
+  "module": "crm",
+  "version": "v1",
+  "type": "GeographicalRegionAssignmentRule",
+  "summary": "GeographicalRegionAssignmentRules"
+ },
+ {
+  "entity": "geographicalregionassignmentrulesets",
+  "module": "crm",
+  "version": "v1",
+  "type": "GeographicalRegionAssignmentRuleSet",
+  "summary": "GeographicalRegionAssignmentRuleSets"
+ },
+ {
+  "entity": "geographicalregions",
+  "module": "crm",
+  "version": "v1",
+  "type": "GeographicalRegion",
+  "summary": "GeographicalRegions"
+ },
+ {
+  "entity": "individuals",
+  "module": "crm",
+  "version": "v1",
+  "type": "Individual",
+  "summary": "Individuals"
+ },
+ {
+  "entity": "individualtypes",
+  "module": "crm",
+  "version": "v1",
+  "type": "IndividualType",
+  "summary": "IndividualTypes"
+ },
+ {
+  "entity": "mediacodes",
+  "module": "crm",
+  "version": "v1",
+  "type": "MediaCode",
+  "summary": "MediaCodes"
+ },
+ {
+  "entity": "organizationcontactentitlements",
+  "module": "crm",
+  "version": "v1",
+  "type": "OrganizationContactEntitlement",
+  "summary": "OrganizationContactEntitlements"
+ },
+ {
+  "entity": "organizationcontactrestrictions",
+  "module": "crm",
+  "version": "v1",
+  "type": "OrganizationContactRestriction",
+  "summary": "OrganizationContactRestrictions"
+ },
+ {
+  "entity": "organizations",
+  "module": "crm",
+  "version": "v1",
+  "type": "Organization",
+  "summary": "Organizations"
+ },
+ {
+  "entity": "organizationtypes",
+  "module": "crm",
+  "version": "v1",
+  "type": "OrganizationType",
+  "summary": "OrganizationTypes"
+ },
+ {
+  "entity": "phonenumbertypes",
+  "module": "crm",
+  "version": "v1",
+  "type": "PhoneNumberType",
+  "summary": "PhoneNumberTypes"
+ },
+ {
+  "entity": "relationships",
+  "module": "crm",
+  "version": "v1",
+  "type": "Relationship",
+  "summary": "Relationships"
+ },
+ {
+  "entity": "relationshiptypes",
+  "module": "crm",
+  "version": "v1",
+  "type": "RelationshipType",
+  "summary": "RelationshipTypes"
+ },
+ {
+  "entity": "requestpriorities",
+  "module": "crm",
+  "version": "v1",
+  "type": "RequestPriority",
+  "summary": "RequestPriorities"
+ },
+ {
+  "entity": "requests",
+  "module": "crm",
+  "version": "v1",
+  "type": "Request",
+  "summary": "Requests"
+ },
+ {
+  "entity": "requeststatuses",
+  "module": "crm",
+  "version": "v1",
+  "type": "RequestStatus",
+  "summary": "RequestStatuses"
+ },
+ {
+  "entity": "searchentitlements",
+  "module": "crm",
+  "version": "v1",
+  "type": "SearchEntitlement",
+  "summary": "SearchEntitlements"
+ },
+ {
+  "entity": "sourcecodes",
+  "module": "crm",
+  "version": "v1",
+  "type": "SourceCode",
+  "summary": "SourceCodes"
+ },
+ {
+  "entity": "tasks",
+  "module": "crm",
+  "version": "v1",
+  "type": "Task",
+  "summary": "Tasks"
+ },
+ {
+  "entity": "associationdiscussionboards",
+  "module": "discussions",
+  "version": "v1",
+  "type": "AssociationDiscussionBoard",
+  "summary": "AssociationDiscussionBoards"
+ },
+ {
+  "entity": "chapterdiscussionboards",
+  "module": "discussions",
+  "version": "v1",
+  "type": "ChapterDiscussionBoard",
+  "summary": "ChapterDiscussionBoards"
+ },
+ {
+  "entity": "committeediscussionboards",
+  "module": "discussions",
+  "version": "v1",
+  "type": "CommitteeDiscussionBoard",
+  "summary": "CommitteeDiscussionBoards"
+ },
+ {
+  "entity": "discussionForumSubscriptions",
+  "module": "discussions",
+  "version": "v1",
+  "type": "DiscussionForumSubscription",
+  "summary": "DiscussionForumSubscription"
+ },
+ {
+  "entity": "discussionposts",
+  "module": "discussions",
+  "version": "v1",
+  "type": "DiscussionPost",
+  "summary": "DiscussionPosts"
+ },
+ {
+  "entity": "discussiontopics",
+  "module": "discussions",
+  "version": "v1",
+  "type": "DiscussionTopic",
+  "summary": "DiscussionTopics"
+ },
+ {
+  "entity": "discussiontopicsubscriptions",
+  "module": "discussions",
+  "version": "v1",
+  "type": "DiscussionTopicSubscription",
+  "summary": "DiscussionTopicSubscriptions"
+ },
+ {
+  "entity": "eventdiscussionboards",
+  "module": "discussions",
+  "version": "v1",
+  "type": "EventDiscussionBoard",
+  "summary": "EventDiscussionBoards"
+ },
+ {
+  "entity": "forums",
+  "module": "discussions",
+  "version": "v1",
+  "type": "Forum",
+  "summary": "Forums"
+ },
+ {
+  "entity": "organizationallayerdiscussionboards",
+  "module": "discussions",
+  "version": "v1",
+  "type": "OrganizationalLayerDiscussionBoard",
+  "summary": "OrganizationalLayerDiscussionBoards"
+ },
+ {
+  "entity": "sectiondiscussionboards",
+  "module": "discussions",
+  "version": "v1",
+  "type": "SectionDiscussionBoard",
+  "summary": "SectionDiscussionBoards"
+ },
+ {
+  "entity": "associationfilecabinets",
+  "module": "documents",
+  "version": "v1",
+  "type": "AssociationFileCabinet",
+  "summary": "AssociationFileCabinets"
+ },
+ {
+  "entity": "chapterfilecabinets",
+  "module": "documents",
+  "version": "v1",
+  "type": "ChapterFileCabinet",
+  "summary": "ChapterFileCabinets"
+ },
+ {
+  "entity": "committeefilecabinets",
+  "module": "documents",
+  "version": "v1",
+  "type": "CommitteeFileCabinet",
+  "summary": "CommitteeFileCabinets"
+ },
+ {
+  "entity": "filefolderentitlements",
+  "module": "documents",
+  "version": "v1",
+  "type": "FileFolderEntitlement",
+  "summary": "FileFolderEntitlements"
+ },
+ {
+  "entity": "filefolders",
+  "module": "documents",
+  "version": "v1",
+  "type": "FileFolder",
+  "summary": "FileFolders"
+ },
+ {
+  "entity": "organizationallayerfilecabinets",
+  "module": "documents",
+  "version": "v1",
+  "type": "OrganizationalLayerFileCabinet",
+  "summary": "OrganizationalLayerFileCabinets"
+ },
+ {
+  "entity": "sectionfilecabinets",
+  "module": "documents",
+  "version": "v1",
+  "type": "SectionFileCabinet",
+  "summary": "SectionFileCabinets"
+ },
+ {
+  "entity": "abstracts",
+  "module": "events",
+  "version": "v1",
+  "type": "Abstract",
+  "summary": "Abstracts"
+ },
+ {
+  "entity": "abstractstatuses",
+  "module": "events",
+  "version": "v1",
+  "type": "AbstractStatus",
+  "summary": "AbstractStatuses"
+ },
+ {
+  "entity": "courses",
+  "module": "events",
+  "version": "v1",
+  "type": "Course",
+  "summary": "Courses"
+ },
+ {
+  "entity": "eventcancellationfeerulesets",
+  "module": "events",
+  "version": "v1",
+  "type": "EventCancellationFeeRuleSet",
+  "summary": "EventCancellationFeeRuleSets"
+ },
+ {
+  "entity": "eventcategories",
+  "module": "events",
+  "version": "v1",
+  "type": "EventCategory",
+  "summary": "EventCategories"
+ },
+ {
+  "entity": "eventdiscountcodes",
+  "module": "events",
+  "version": "v1",
+  "type": "EventDiscountCode",
+  "summary": "EventDiscountCodes"
+ },
+ {
+  "entity": "eventinformationlinks",
+  "module": "events",
+  "version": "v1",
+  "type": "EventInformationLink",
+  "summary": "EventInformationLinks"
+ },
+ {
+  "entity": "eventinvitees",
+  "module": "events",
+  "version": "v1",
+  "type": "EventInvitee",
+  "summary": "EventInvitees"
+ },
+ {
+  "entity": "eventlocationrooms",
+  "module": "events",
+  "version": "v1",
+  "type": "EventLocationRoom",
+  "summary": "EventLocationRooms"
+ },
+ {
+  "entity": "eventmerchandise",
+  "module": "events",
+  "version": "v1",
+  "type": "EventMerchandise",
+  "summary": "EventMerchandise"
+ },
+ {
+  "entity": "eventregistrations",
+  "module": "events",
+  "version": "v1",
+  "type": "EventRegistration",
+  "summary": "EventRegistrations"
+ },
+ {
+  "entity": "eventresources",
+  "module": "events",
+  "version": "v1",
+  "type": "EventResource",
+  "summary": "EventResources"
+ },
+ {
+  "entity": "eventresourcetypes",
+  "module": "events",
+  "version": "v1",
+  "type": "EventResourceType",
+  "summary": "EventResourceTypes"
+ },
+ {
+  "entity": "eventribbontypes",
+  "module": "events",
+  "version": "v1",
+  "type": "EventRibbonType",
+  "summary": "EventRibbonTypes"
+ },
+ {
+  "entity": "events",
+  "module": "events",
+  "version": "v1",
+  "type": "Event",
+  "summary": "Events"
+ },
+ {
+  "entity": "eventsponsorshipfees",
+  "module": "events",
+  "version": "v1",
+  "type": "EventSponsorshipFee",
+  "summary": "EventSponsorshipFees"
+ },
+ {
+  "entity": "eventsponsorshipopportunities",
+  "module": "events",
+  "version": "v1",
+  "type": "EventSponsorshipOpportunity",
+  "summary": "EventSponsorshipOpportunities"
+ },
+ {
+  "entity": "eventsponsorships",
+  "module": "events",
+  "version": "v1",
+  "type": "EventSponsorship",
+  "summary": "EventSponsorships"
+ },
+ {
+  "entity": "eventsponsorshiptypes",
+  "module": "events",
+  "version": "v1",
+  "type": "EventSponsorshipType",
+  "summary": "EventSponsorshipTypes"
+ },
+ {
+  "entity": "eventtableassignments",
+  "module": "events",
+  "version": "v1",
+  "type": "EventTableAssignment",
+  "summary": "EventTableAssignments"
+ },
+ {
+  "entity": "eventtablefees",
+  "module": "events",
+  "version": "v1",
+  "type": "EventTableFee",
+  "summary": "EventTableFees"
+ },
+ {
+  "entity": "eventtablereservations",
+  "module": "events",
+  "version": "v1",
+  "type": "EventTableReservation",
+  "summary": "EventTableReservations"
+ },
+ {
+  "entity": "eventtables",
+  "module": "events",
+  "version": "v1",
+  "type": "EventTable",
+  "summary": "EventTables"
+ },
+ {
+  "entity": "eventtabletypes",
+  "module": "events",
+  "version": "v1",
+  "type": "EventTableType",
+  "summary": "EventTableTypes"
+ },
+ {
+  "entity": "eventtypes",
+  "module": "events",
+  "version": "v1",
+  "type": "EventType",
+  "summary": "EventTypes"
+ },
+ {
+  "entity": "registrationcategories",
+  "module": "events",
+  "version": "v1",
+  "type": "RegistrationCategory",
+  "summary": "RegistrationCategories"
+ },
+ {
+  "entity": "registrationclasses",
+  "module": "events",
+  "version": "v1",
+  "type": "RegistrationClass",
+  "summary": "RegistrationClasses"
+ },
+ {
+  "entity": "registrationfees",
+  "module": "events",
+  "version": "v1",
+  "type": "RegistrationFee",
+  "summary": "RegistrationFees"
+ },
+ {
+  "entity": "sessionregistrations",
+  "module": "events",
+  "version": "v1",
+  "type": "SessionRegistration",
+  "summary": "SessionRegistrations"
+ },
+ {
+  "entity": "sessions",
+  "module": "events",
+  "version": "v1",
+  "type": "Session",
+  "summary": "Sessions"
+ },
+ {
+  "entity": "sessiontimeslots",
+  "module": "events",
+  "version": "v1",
+  "type": "SessionTimeSlot",
+  "summary": "SessionTimeSlots"
+ },
+ {
+  "entity": "sessiontracks",
+  "module": "events",
+  "version": "v1",
+  "type": "SessionTrack",
+  "summary": "SessionTracks"
+ },
+ {
+  "entity": "speakerevaluations",
+  "module": "events",
+  "version": "v1",
+  "type": "SpeakerEvaluation",
+  "summary": "SpeakerEvaluations"
+ },
+ {
+  "entity": "speakers",
+  "module": "events",
+  "version": "v1",
+  "type": "Speaker",
+  "summary": "Speakers"
+ },
+ {
+  "entity": "tieredregistrationpricingrules",
+  "module": "events",
+  "version": "v1",
+  "type": "TieredRegistrationPricingRule",
+  "summary": "TieredRegistrationPricingRules"
+ },
+ {
+  "entity": "tieredregistrationpricingrulesets",
+  "module": "events",
+  "version": "v1",
+  "type": "TieredRegistrationPricingRuleSet",
+  "summary": "TieredRegistrationPricingRuleSets"
+ },
+ {
+  "entity": "waivedregistrationlists",
+  "module": "events",
+  "version": "v1",
+  "type": "WaivedRegistrationList",
+  "summary": "WaivedRegistrationLists"
+ },
+ {
+  "entity": "exhibitboothcategories",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitBoothCategory",
+  "summary": "ExhibitBoothCategories"
+ },
+ {
+  "entity": "exhibitbooths",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitBooth",
+  "summary": "ExhibitBooths"
+ },
+ {
+  "entity": "exhibitboothtypeproducts",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitBoothTypeProduct",
+  "summary": "ExhibitBoothTypeProducts"
+ },
+ {
+  "entity": "exhibitboothtypes",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitBoothType",
+  "summary": "ExhibitBoothTypes"
+ },
+ {
+  "entity": "exhibitorcontactrestrictions",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitorContactRestriction",
+  "summary": "ExhibitorContactRestrictions"
+ },
+ {
+  "entity": "exhibitorcontacttypes",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitorContactType",
+  "summary": "ExhibitorContactTypes"
+ },
+ {
+  "entity": "exhibitorfees",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitorFee",
+  "summary": "ExhibitorFees"
+ },
+ {
+  "entity": "exhibitormerchandise",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitorMerchandise",
+  "summary": "ExhibitorMerchandise"
+ },
+ {
+  "entity": "exhibitorregistrationwindows",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitorRegistrationWindow",
+  "summary": "ExhibitorRegistrationWindows"
+ },
+ {
+  "entity": "exhibitors",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "Exhibitor",
+  "summary": "Exhibitors"
+ },
+ {
+  "entity": "exhibitorstatuses",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitorStatus",
+  "summary": "ExhibitorStatuses"
+ },
+ {
+  "entity": "exhibitshows",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitShow",
+  "summary": "ExhibitShows"
+ },
+ {
+  "entity": "exhibitsponsorshipfees",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitSponsorshipFee",
+  "summary": "ExhibitSponsorshipFees"
+ },
+ {
+  "entity": "exhibitsponsorships",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "ExhibitSponsorship",
+  "summary": "ExhibitSponsorships"
+ },
+ {
+  "entity": "prioritypointassignments",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "PriorityPointAssignment",
+  "summary": "PriorityPointAssignments"
+ },
+ {
+  "entity": "prioritypointgroups",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "PriorityPointGroup",
+  "summary": "PriorityPointGroups"
+ },
+ {
+  "entity": "prioritypointtypes",
+  "module": "exhibits",
+  "version": "v1",
+  "type": "PriorityPointType",
+  "summary": "PriorityPointTypes"
+ },
+ {
+  "entity": "accountingprojects",
+  "module": "financial",
+  "version": "v1",
+  "type": "AccountingProject",
+  "summary": "AccountingProjects"
+ },
+ {
+  "entity": "authorizenetmerchantaccounts",
+  "module": "financial",
+  "version": "v1",
+  "type": "AuthorizeNetMerchantAccount",
+  "summary": "AuthorizeNetMerchantAccounts"
+ },
+ {
+  "entity": "bankaccounts",
+  "module": "financial",
+  "version": "v1",
+  "type": "BankAccount",
+  "summary": "BankAccounts"
+ },
+ {
+  "entity": "bankreconciliations",
+  "module": "financial",
+  "version": "v1",
+  "type": "BankReconciliation",
+  "summary": "BankReconciliations"
+ },
+ {
+  "entity": "batchassignmentrules",
+  "module": "financial",
+  "version": "v1",
+  "type": "BatchAssignmentRule",
+  "summary": "BatchAssignmentRules"
+ },
+ {
+  "entity": "batchassignmentrulesets",
+  "module": "financial",
+  "version": "v1",
+  "type": "BatchAssignmentRuleSet",
+  "summary": "BatchAssignmentRuleSets"
+ },
+ {
+  "entity": "batches",
+  "module": "financial",
+  "version": "v1",
+  "type": "Batch",
+  "summary": "Batches"
+ },
+ {
+  "entity": "billingschedules",
+  "module": "financial",
+  "version": "v1",
+  "type": "BillingSchedule",
+  "summary": "BillingSchedules"
+ },
+ {
+  "entity": "billingtemplates",
+  "module": "financial",
+  "version": "v1",
+  "type": "BillingTemplate",
+  "summary": "BillingTemplates"
+ },
+ {
+  "entity": "bluepaymerchantaccounts",
+  "module": "financial",
+  "version": "v1",
+  "type": "BluePayMerchantAccount",
+  "summary": "BluePayMerchantAccounts"
+ },
+ {
+  "entity": "businessunits",
+  "module": "financial",
+  "version": "v1",
+  "type": "BusinessUnit",
+  "summary": "BusinessUnits"
+ },
+ {
+  "entity": "cancellationfeeproducts",
+  "module": "financial",
+  "version": "v1",
+  "type": "CancellationFeeProduct",
+  "summary": "CancellationFeeProducts"
+ },
+ {
+  "entity": "cancellationfeerules",
+  "module": "financial",
+  "version": "v1",
+  "type": "CancellationFeeRule",
+  "summary": "CancellationFeeRules"
+ },
+ {
+  "entity": "creditmemos",
+  "module": "financial",
+  "version": "v1",
+  "type": "CreditMemo",
+  "summary": "CreditMemos"
+ },
+ {
+  "entity": "credits",
+  "module": "financial",
+  "version": "v1",
+  "type": "Credit",
+  "summary": "Credits"
+ },
+ {
+  "entity": "creditusages",
+  "module": "financial",
+  "version": "v1",
+  "type": "CreditUsage",
+  "summary": "CreditUsages"
+ },
+ {
+  "entity": "custombatchdownloadtemplates",
+  "module": "financial",
+  "version": "v1",
+  "type": "CustomBatchDownloadTemplate",
+  "summary": "CustomBatchDownloadTemplates"
+ },
+ {
+  "entity": "customerbalancetemplates",
+  "module": "financial",
+  "version": "v1",
+  "type": "CustomerBalanceStatementTemplate",
+  "summary": "CustomerBalanceTemplates"
+ },
+ {
+  "entity": "debitmemos",
+  "module": "financial",
+  "version": "v1",
+  "type": "DebitMemo",
+  "summary": "DebitMemos"
+ },
+ {
+  "entity": "duetoduefromentries",
+  "module": "financial",
+  "version": "v1",
+  "type": "DueToDueFromEntry",
+  "summary": "DueToDueFromEntries"
+ },
+ {
+  "entity": "expensetypes",
+  "module": "financial",
+  "version": "v1",
+  "type": "ExpenseType",
+  "summary": "ExpenseTypes"
+ },
+ {
+  "entity": "fiscalyears",
+  "module": "financial",
+  "version": "v1",
+  "type": "FiscalYear",
+  "summary": "FiscalYears"
+ },
+ {
+  "entity": "glaccounts",
+  "module": "financial",
+  "version": "v1",
+  "type": "GLAccount",
+  "summary": "GLAccounts"
+ },
+ {
+  "entity": "historicaldeferrals",
+  "module": "financial",
+  "version": "v1",
+  "type": "HistoricalDeferral",
+  "summary": "HistoricalDeferrals"
+ },
+ {
+  "entity": "historicaltransactions",
+  "module": "financial",
+  "version": "v1",
+  "type": "HistoricalTransaction",
+  "summary": "HistoricalTransactions"
+ },
+ {
+  "entity": "invoices",
+  "module": "financial",
+  "version": "v1",
+  "type": "Invoice",
+  "summary": "Invoices"
+ },
+ {
+  "entity": "invoicetemplates",
+  "module": "financial",
+  "version": "v1",
+  "type": "InvoiceTemplate",
+  "summary": "InvoiceTemplates"
+ },
+ {
+  "entity": "invoiceterms",
+  "module": "financial",
+  "version": "v1",
+  "type": "InvoiceTerms",
+  "summary": "InvoiceTerms"
+ },
+ {
+  "entity": "invoicetypes",
+  "module": "financial",
+  "version": "v1",
+  "type": "InvoiceType",
+  "summary": "InvoiceTypes"
+ },
+ {
+  "entity": "journalentries",
+  "module": "financial",
+  "version": "v1",
+  "type": "JournalEntry",
+  "summary": "JournalEntries"
+ },
+ {
+  "entity": "journalentrytypes",
+  "module": "financial",
+  "version": "v1",
+  "type": "JournalEntryType",
+  "summary": "JournalEntryTypes"
+ },
+ {
+  "entity": "latefeeproducts",
+  "module": "financial",
+  "version": "v1",
+  "type": "LateFeeProduct",
+  "summary": "LateFeeProducts"
+ },
+ {
+  "entity": "legacyproducts",
+  "module": "financial",
+  "version": "v1",
+  "type": "LegacyProduct",
+  "summary": "LegacyProducts"
+ },
+ {
+  "entity": "miscellaneousproducts",
+  "module": "financial",
+  "version": "v1",
+  "type": "MiscellaneousProduct",
+  "summary": "MiscellaneousProducts"
+ },
+ {
+  "entity": "payflowpromerchantaccounts",
+  "module": "financial",
+  "version": "v1",
+  "type": "PayFlowProMerchantAccount",
+  "summary": "PayFlowProMerchantAccounts"
+ },
+ {
+  "entity": "paymentreceipttemplates",
+  "module": "financial",
+  "version": "v1",
+  "type": "PaymentReceiptTemplate",
+  "summary": "PaymentReceiptTemplates"
+ },
+ {
+  "entity": "payments",
+  "module": "financial",
+  "version": "v1",
+  "type": "Payment",
+  "summary": "Payments"
+ },
+ {
+  "entity": "paypalmerchantaccounts",
+  "module": "financial",
+  "version": "v1",
+  "type": "PayPalMerchantAccount",
+  "summary": "PayPalMerchantAccounts"
+ },
+ {
+  "entity": "portalaccountpaymentrules",
+  "module": "financial",
+  "version": "v1",
+  "type": "PortalAccountPaymentRule",
+  "summary": "PortalAccountPaymentRules"
+ },
+ {
+  "entity": "portalaccountpaymentrulesets",
+  "module": "financial",
+  "version": "v1",
+  "type": "PortalAccountPaymentRuleSet",
+  "summary": "PortalAccountPaymentRuleSets"
+ },
+ {
+  "entity": "prioritypaymentsmerchantaccounts",
+  "module": "financial",
+  "version": "v1",
+  "type": "PriorityPaymentsMerchantAccount",
+  "summary": "PriorityPaymentsMerchantAccounts"
+ },
+ {
+  "entity": "productcategories",
+  "module": "financial",
+  "version": "v1",
+  "type": "ProductCategory",
+  "summary": "ProductCategories"
+ },
+ {
+  "entity": "productprocessingpriorityrules",
+  "module": "financial",
+  "version": "v1",
+  "type": "ProductProcessingPriorityRule",
+  "summary": "ProductProcessingPriorityRules"
+ },
+ {
+  "entity": "productprocessingpriorityrulesets",
+  "module": "financial",
+  "version": "v1",
+  "type": "ProductProcessingPriorityRuleSet",
+  "summary": "ProductProcessingPriorityRuleSets"
+ },
+ {
+  "entity": "reconciliationadjustmenttypes",
+  "module": "financial",
+  "version": "v1",
+  "type": "ReconciliationAdjustmentType",
+  "summary": "ReconciliationAdjustmentTypes"
+ },
+ {
+  "entity": "recurringbatchdefinitions",
+  "module": "financial",
+  "version": "v1",
+  "type": "RecurringBatchDefinition",
+  "summary": "RecurringBatchDefinitions"
+ },
+ {
+  "entity": "refunds",
+  "module": "financial",
+  "version": "v1",
+  "type": "Refund",
+  "summary": "Refunds"
+ },
+ {
+  "entity": "revenuerecognitionschedules",
+  "module": "financial",
+  "version": "v1",
+  "type": "RevenueRecognitionSchedule",
+  "summary": "RevenueRecognitionSchedules"
+ },
+ {
+  "entity": "revenuerecognitiontemplates",
+  "module": "financial",
+  "version": "v1",
+  "type": "RevenueRecognitionTemplate",
+  "summary": "RevenueRecognitionTemplates"
+ },
+ {
+  "entity": "subledgerentries",
+  "module": "financial",
+  "version": "v1",
+  "type": "SubledgerEntry",
+  "summary": "SubledgerEntries"
+ },
+ {
+  "entity": "writeoffs",
+  "module": "financial",
+  "version": "v1",
+  "type": "WriteOff",
+  "summary": "WriteOffs"
+ },
+ {
+  "entity": "appeals",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "Appeal",
+  "summary": "Appeals"
+ },
+ {
+  "entity": "donoracknowledgmentletters",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "DonorAcknowledgmentLetter",
+  "summary": "DonorAcknowledgmentLetters"
+ },
+ {
+  "entity": "donoracknowledgmentrules",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "DonorAcknowledgmentRule",
+  "summary": "DonorAcknowledgmentRules"
+ },
+ {
+  "entity": "donoracknowledgmentrulesets",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "DonorAcknowledgmentRuleSet",
+  "summary": "DonorAcknowledgmentRuleSets"
+ },
+ {
+  "entity": "donorlevels",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "DonorLevel",
+  "summary": "DonorLevels"
+ },
+ {
+  "entity": "donorreceipts",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "DonorReceipt",
+  "summary": "DonorReceipts"
+ },
+ {
+  "entity": "fundraisingexpenses",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "FundraisingExpense",
+  "summary": "FundraisingExpenses"
+ },
+ {
+  "entity": "fundraisingproducts",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "FundraisingProduct",
+  "summary": "FundraisingProducts"
+ },
+ {
+  "entity": "funds",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "Fund",
+  "summary": "Funds"
+ },
+ {
+  "entity": "giftattributecategories",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "GiftAttributeCategory",
+  "summary": "GiftAttributeCategories"
+ },
+ {
+  "entity": "giftpackages",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "GiftPackage",
+  "summary": "GiftPackages"
+ },
+ {
+  "entity": "gifts",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "Gift",
+  "summary": "Gifts"
+ },
+ {
+  "entity": "giftsubtypes",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "GiftSubType",
+  "summary": "GiftSubTypes"
+ },
+ {
+  "entity": "portalgiftpaymentrules",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "PortalGiftPaymentRule",
+  "summary": "PortalGiftPaymentRules"
+ },
+ {
+  "entity": "portalgiftpaymentrulesets",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "PortalGiftPaymentRuleSet",
+  "summary": "PortalGiftPaymentRuleSets"
+ },
+ {
+  "entity": "premiums",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "Premium",
+  "summary": "Premiums"
+ },
+ {
+  "entity": "tributes",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "Tribute",
+  "summary": "Tributes"
+ },
+ {
+  "entity": "tributetypes",
+  "module": "fundraising",
+  "version": "v1",
+  "type": "TributeType",
+  "summary": "TributeTypes"
+ },
+ {
+  "entity": "chapterduesproducts",
+  "module": "membership",
+  "version": "v1",
+  "type": "ChapterDuesProduct",
+  "summary": "ChapterDuesProducts"
+ },
+ {
+  "entity": "chapterpostalcodemappings",
+  "module": "membership",
+  "version": "v1",
+  "type": "ChapterPostalCodeMapping",
+  "summary": "ChapterPostalCodeMappings"
+ },
+ {
+  "entity": "chapters",
+  "module": "membership",
+  "version": "v1",
+  "type": "Chapter",
+  "summary": "Chapters"
+ },
+ {
+  "entity": "chaptertypes",
+  "module": "membership",
+  "version": "v1",
+  "type": "ChapterType",
+  "summary": "ChapterTypes"
+ },
+ {
+  "entity": "membershipcardtemplates",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipCardTemplate",
+  "summary": "MembershipCardTemplates"
+ },
+ {
+  "entity": "membershipcategories",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipCategory",
+  "summary": "MembershipCategories"
+ },
+ {
+  "entity": "membershipduesproducts",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipDuesProduct",
+  "summary": "MembershipDuesProducts"
+ },
+ {
+  "entity": "membershipinformationlinks",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipInformationLink",
+  "summary": "MembershipInformationLinks"
+ },
+ {
+  "entity": "membershipmerchandise",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipMerchandise",
+  "summary": "MembershipMerchandise"
+ },
+ {
+  "entity": "membershiporganizations",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipOrganization",
+  "summary": "MembershipOrganizations"
+ },
+ {
+  "entity": "membershiprecommendations",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipRecommendation",
+  "summary": "MembershipRecommendations"
+ },
+ {
+  "entity": "membershiprecommendationtypes",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipRecommendationType",
+  "summary": "MembershipRecommendationTypes"
+ },
+ {
+  "entity": "memberships",
+  "module": "membership",
+  "version": "v1",
+  "type": "Membership",
+  "summary": "Memberships"
+ },
+ {
+  "entity": "membershipstatuses",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipStatus",
+  "summary": "MembershipStatuses"
+ },
+ {
+  "entity": "membershiptypes",
+  "module": "membership",
+  "version": "v1",
+  "type": "MembershipType",
+  "summary": "MembershipTypes"
+ },
+ {
+  "entity": "organizationallayerduesproducts",
+  "module": "membership",
+  "version": "v1",
+  "type": "OrganizationalLayerDuesProduct",
+  "summary": "OrganizationalLayerDuesProducts"
+ },
+ {
+  "entity": "organizationallayers",
+  "module": "membership",
+  "version": "v1",
+  "type": "OrganizationalLayer",
+  "summary": "OrganizationalLayers"
+ },
+ {
+  "entity": "organizationallayertypes",
+  "module": "membership",
+  "version": "v1",
+  "type": "OrganizationalLayerType",
+  "summary": "OrganizationalLayerTypes"
+ },
+ {
+  "entity": "sectionduesproducts",
+  "module": "membership",
+  "version": "v1",
+  "type": "SectionDuesProduct",
+  "summary": "SectionDuesProducts"
+ },
+ {
+  "entity": "sections",
+  "module": "membership",
+  "version": "v1",
+  "type": "Section",
+  "summary": "Sections"
+ },
+ {
+  "entity": "sectiontypes",
+  "module": "membership",
+  "version": "v1",
+  "type": "SectionType",
+  "summary": "SectionTypes"
+ },
+ {
+  "entity": "terminationreasons",
+  "module": "membership",
+  "version": "v1",
+  "type": "TerminationReason",
+  "summary": "TerminationReasons"
+ },
+ {
+  "entity": "cogsentries",
+  "module": "orders",
+  "version": "v1",
+  "type": "COGSEntry",
+  "summary": "COGSEntries"
+ },
+ {
+  "entity": "discountproducts",
+  "module": "orders",
+  "version": "v1",
+  "type": "DiscountProduct",
+  "summary": "DiscountProducts"
+ },
+ {
+  "entity": "exchanges",
+  "module": "orders",
+  "version": "v1",
+  "type": "Exchange",
+  "summary": "Exchanges"
+ },
+ {
+  "entity": "fedexshippingcarrieraccounts",
+  "module": "orders",
+  "version": "v1",
+  "type": "FedexShippingCarrierAccount",
+  "summary": "FedexShippingCarrierAccounts"
+ },
+ {
+  "entity": "fulfillmentbatches",
+  "module": "orders",
+  "version": "v1",
+  "type": "FulfillmentBatch",
+  "summary": "FulfillmentBatches"
+ },
+ {
+  "entity": "generaldiscountcodes",
+  "module": "orders",
+  "version": "v1",
+  "type": "GeneralDiscountCode",
+  "summary": "GeneralDiscountCodes"
+ },
+ {
+  "entity": "inventoryadjustments",
+  "module": "orders",
+  "version": "v1",
+  "type": "InventoryAdjustment",
+  "summary": "InventoryAdjustments"
+ },
+ {
+  "entity": "inventorybackorders",
+  "module": "orders",
+  "version": "v1",
+  "type": "InventoryBackorder",
+  "summary": "InventoryBackorders"
+ },
+ {
+  "entity": "inventorycommitments",
+  "module": "orders",
+  "version": "v1",
+  "type": "InventoryCommitment",
+  "summary": "InventoryCommitments"
+ },
+ {
+  "entity": "inventoryfulfillments",
+  "module": "orders",
+  "version": "v1",
+  "type": "InventoryFulfillment",
+  "summary": "InventoryFulfillments"
+ },
+ {
+  "entity": "inventorypurchaseorders",
+  "module": "orders",
+  "version": "v1",
+  "type": "InventoryPurchaseOrder",
+  "summary": "InventoryPurchaseOrders"
+ },
+ {
+  "entity": "inventoryreceipts",
+  "module": "orders",
+  "version": "v1",
+  "type": "InventoryReceipt",
+  "summary": "InventoryReceipts"
+ },
+ {
+  "entity": "inventoryreservations",
+  "module": "orders",
+  "version": "v1",
+  "type": "InventoryReservation",
+  "summary": "InventoryReservations"
+ },
+ {
+  "entity": "inventoryreturns",
+  "module": "orders",
+  "version": "v1",
+  "type": "InventoryReturn",
+  "summary": "InventoryReturns"
+ },
+ {
+  "entity": "inventorytransfers",
+  "module": "orders",
+  "version": "v1",
+  "type": "InventoryTransfer",
+  "summary": "InventoryTransfers"
+ },
+ {
+  "entity": "merchandise",
+  "module": "orders",
+  "version": "v1",
+  "type": "Merchandise",
+  "summary": "Merchandise"
+ },
+ {
+  "entity": "ordercancellations",
+  "module": "orders",
+  "version": "v1",
+  "type": "OrderCancellation",
+  "summary": "OrderCancellations"
+ },
+ {
+  "entity": "orders",
+  "module": "orders",
+  "version": "v1",
+  "type": "Order",
+  "summary": "Orders"
+ },
+ {
+  "entity": "ordertemplates",
+  "module": "orders",
+  "version": "v1",
+  "type": "OrderTemplate",
+  "summary": "OrderTemplates"
+ },
+ {
+  "entity": "packingsliptemplates",
+  "module": "orders",
+  "version": "v1",
+  "type": "PackingSlipTemplate",
+  "summary": "PackingSlipTemplates"
+ },
+ {
+  "entity": "portalorderpaymentrules",
+  "module": "orders",
+  "version": "v1",
+  "type": "PortalOrderPaymentRule",
+  "summary": "PortalOrderPaymentRules"
+ },
+ {
+  "entity": "portalorderpaymentrulesets",
+  "module": "orders",
+  "version": "v1",
+  "type": "PortalOrderPaymentRuleSet",
+  "summary": "PortalOrderPaymentRuleSets"
+ },
+ {
+  "entity": "priceoverridereasons",
+  "module": "orders",
+  "version": "v1",
+  "type": "PriceOverrideReason",
+  "summary": "PriceOverrideReasons"
+ },
+ {
+  "entity": "prorationtables",
+  "module": "orders",
+  "version": "v1",
+  "type": "ProrationTable",
+  "summary": "ProrationTables"
+ },
+ {
+  "entity": "returnreasons",
+  "module": "orders",
+  "version": "v1",
+  "type": "ReturnReason",
+  "summary": "ReturnReasons"
+ },
+ {
+  "entity": "returnrequests",
+  "module": "orders",
+  "version": "v1",
+  "type": "ReturnRequest",
+  "summary": "ReturnRequests"
+ },
+ {
+  "entity": "returns",
+  "module": "orders",
+  "version": "v1",
+  "type": "Return",
+  "summary": "Returns"
+ },
+ {
+  "entity": "shippingmethods",
+  "module": "orders",
+  "version": "v1",
+  "type": "ShippingMethod",
+  "summary": "ShippingMethods"
+ },
+ {
+  "entity": "shippingproducts",
+  "module": "orders",
+  "version": "v1",
+  "type": "ShippingProduct",
+  "summary": "ShippingProducts"
+ },
+ {
+  "entity": "shippingzones",
+  "module": "orders",
+  "version": "v1",
+  "type": "ShippingZone",
+  "summary": "ShippingZones"
+ },
+ {
+  "entity": "stockiteminventories",
+  "module": "orders",
+  "version": "v1",
+  "type": "StockItemInventory",
+  "summary": "StockItemInventories"
+ },
+ {
+  "entity": "taxproducts",
+  "module": "orders",
+  "version": "v1",
+  "type": "TaxProduct",
+  "summary": "TaxProducts"
+ },
+ {
+  "entity": "taxtables",
+  "module": "orders",
+  "version": "v1",
+  "type": "TaxTable",
+  "summary": "TaxTables"
+ },
+ {
+  "entity": "upsshippingcarrieraccounts",
+  "module": "orders",
+  "version": "v1",
+  "type": "UPSShippingCarrierAccount",
+  "summary": "UPSShippingCarrierAccounts"
+ },
+ {
+  "entity": "uspsshippingcarrieraccounts",
+  "module": "orders",
+  "version": "v1",
+  "type": "USPSShippingCarrierAccount",
+  "summary": "USPSShippingCarrierAccounts"
+ },
+ {
+  "entity": "vendors",
+  "module": "orders",
+  "version": "v1",
+  "type": "Vendor",
+  "summary": "Vendors"
+ },
+ {
+  "entity": "warehouses",
+  "module": "orders",
+  "version": "v1",
+  "type": "Warehouse",
+  "summary": "Warehouses"
+ },
+ {
+  "entity": "associationconfigurationcontainers",
+  "module": "platform",
+  "version": "v2",
+  "type": "AssociationConfigurationContainer",
+  "summary": "AssociationConfigurationContainers"
+ },
+ {
+  "entity": "certificationprogramconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "CertificationProgramConfigurationSetting",
+  "summary": "CertificationProgramConfigurationSettings"
+ },
+ {
+  "entity": "competitionconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "CompetitionConfigurationSetting",
+  "summary": "CompetitionConfigurationSettings"
+ },
+ {
+  "entity": "configurabletypeconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "ConfigurableTypeConfigurationSetting",
+  "summary": "ConfigurableTypeConfigurationSettings"
+ },
+ {
+  "entity": "customfieldconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "CustomFieldConfigurationSetting",
+  "summary": "CustomFieldConfigurationSettings"
+ },
+ {
+  "entity": "customfields",
+  "module": "platform",
+  "version": "v2",
+  "type": "CustomField",
+  "summary": "CustomFields"
+ },
+ {
+  "entity": "customobjectinstances",
+  "module": "platform",
+  "version": "v2",
+  "type": "CustomObjectInstance",
+  "summary": "CustomObjectInstances"
+ },
+ {
+  "entity": "customobjects",
+  "module": "platform",
+  "version": "v2",
+  "type": "CustomObject",
+  "summary": "CustomObjects"
+ },
+ {
+  "entity": "customsearchoutputs",
+  "module": "platform",
+  "version": "v2",
+  "type": "CustomSearchOutput",
+  "summary": "CustomSearchOutputs"
+ },
+ {
+  "entity": "customsearchspecifications",
+  "module": "platform",
+  "version": "v2",
+  "type": "CustomSearchSpecification",
+  "summary": "CustomSearchSpecifications"
+ },
+ {
+  "entity": "emailtemplatecontainers",
+  "module": "platform",
+  "version": "v2",
+  "type": "EmailTemplateContainer",
+  "summary": "EmailTemplateContainers"
+ },
+ {
+  "entity": "eventconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "EventConfigurationSetting",
+  "summary": "EventConfigurationSettings"
+ },
+ {
+  "entity": "generalconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "GeneralConfigurationSetting",
+  "summary": "GeneralConfigurationSettings"
+ },
+ {
+  "entity": "lookuptables",
+  "module": "platform",
+  "version": "v2",
+  "type": "LookupTable",
+  "summary": "LookupTables"
+ },
+ {
+  "entity": "mailmergetemplates",
+  "module": "platform",
+  "version": "v2",
+  "type": "MailMergeTemplate",
+  "summary": "MailMergeTemplates"
+ },
+ {
+  "entity": "membershipstatusconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "MembershipStatusConfigurationSetting",
+  "summary": "MembershipStatusConfigurationSettings"
+ },
+ {
+  "entity": "metadatacontainerconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "MetadataContainerConfigurationSetting",
+  "summary": "MetadataContainerConfigurationSettings"
+ },
+ {
+  "entity": "portalformconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "PortalFormConfigurationSetting",
+  "summary": "PortalFormConfigurationSettings"
+ },
+ {
+  "entity": "productconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "ProductConfigurationSetting",
+  "summary": "ProductConfigurationSettings"
+ },
+ {
+  "entity": "relationshiptypeconfigurationsettings",
+  "module": "platform",
+  "version": "v2",
+  "type": "RelationshipTypeConfigurationSetting",
+  "summary": "RelationshipTypeConfigurationSettings"
+ },
+ {
+  "entity": "savedsearches",
+  "module": "platform",
+  "version": "v2",
+  "type": "SavedSearch",
+  "summary": "SavedSearches"
+ },
+ {
+  "entity": "scheduledsearches",
+  "module": "platform",
+  "version": "v2",
+  "type": "ScheduledSearch",
+  "summary": "ScheduledSearches"
+ },
+ {
+  "entity": "searchresultswidgets",
+  "module": "platform",
+  "version": "v2",
+  "type": "SearchResultsWidget",
+  "summary": "SearchResultsWidgets"
+ },
+ {
+  "entity": "searchspecificationcontainers",
+  "module": "platform",
+  "version": "v2",
+  "type": "SearchSpecificationContainer",
+  "summary": "SearchSpecificationContainers"
+ },
+ {
+  "entity": "backissueproducts",
+  "module": "subscriptions",
+  "version": "v1",
+  "type": "BackIssueProduct",
+  "summary": "BackIssueProducts"
+ },
+ {
+  "entity": "subscriptionfees",
+  "module": "subscriptions",
+  "version": "v1",
+  "type": "SubscriptionFee",
+  "summary": "SubscriptionFees"
+ },
+ {
+  "entity": "subscriptionfulfillments",
+  "module": "subscriptions",
+  "version": "v1",
+  "type": "SubscriptionFulfillment",
+  "summary": "SubscriptionFulfillments"
+ },
+ {
+  "entity": "subscriptions",
+  "module": "subscriptions",
+  "version": "v1",
+  "type": "Subscription",
+  "summary": "Subscriptions"
+ }
+]
